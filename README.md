@@ -1,46 +1,47 @@
-# Getting Started with Create React App
+# <img src="/public/logo.svg" alt="Logo Latmeask" width="40" /> Podcastr
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Project built during NLW#6 - Letmeask
 
-## Available Scripts
+<img src="/public/github/nlw-trilha-reactjs.png" alt="NLW#5"/>
 
-In the project directory, you can run:
+# :rocket: Technologies
 
-### `yarn start`
+> Technologies used in development.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- TypeScript
+- React
+- NodeJs
+- Firebase
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# :link: Dependencies
 
-### `yarn test`
+> Dependencies to be able to run the project.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- NodeJs
+- Yarn
 
-### `yarn build`
+# :hammer_and_wrench: Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> Project download and configuration.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Clone the project to your development environment
+- Access the cloned repository folder
+- Change the env.example file to .env
+- Put your environment variables in the .env file
+- Run the command: yarn install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# :computer: Initialization
 
-### `yarn eject`
+> Run the commands below in sequence within the cloned repository.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- yarn dev
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# :earth_americas: Access
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+> Access the URLs below to access the visual part. \_baseURl -> http://localhost:3000
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- \_baseURL
 
-## Learn More
+# :memo: License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[MIT license](https://opensource.org/licenses/MIT).
