@@ -1,4 +1,4 @@
-# <img src="/public/github/logo.svg" alt="Logo Latmeask" width="100" />
+# <img src="/public/github/logo.svg" alt="Logo Latmeask" width="200" />
 
 > Project built during NLW#6 - Letmeask
 
