@@ -1,4 +1,4 @@
-# <img src="/public/logo.svg" alt="Logo Latmeask" width="40" /> Podcastr
+# <img src="/public/github/logo.svg" alt="Logo Latmeask" width="40" />
 
 > Project built during NLW#6 - Letmeask
 
